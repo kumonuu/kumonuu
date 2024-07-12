@@ -55,4 +55,4 @@ currently, i'm focused on:
 
 thank you for visiting my profile!!! feel free to reach out if you'd like to collaborate or just wanna chat about tech.
 
-![profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square)
+![profile views](https://komarev.com/ghpvc/?username=kumonuu&color=blue&style=flat-square)
