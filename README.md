@@ -29,7 +29,7 @@ i'm an aspiring frontend developer with a passion for crafting beautiful and int
 
 ## 📈 my github stats
 
-![stats!](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![stats!](https://github-readme-stats.vercel.app/api?username=kumonuu&show_icons=true&theme=radical)
 
 ## 📫 get in touch
 
